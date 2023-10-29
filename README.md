@@ -26,3 +26,4 @@ A basic understanding of Flask, web development, and Socket.IO.
 
 
 INSTALL PACKAGES LISTED ON Pipfile
+Replace the fields in env.py file and mysqlconnection.py file.
